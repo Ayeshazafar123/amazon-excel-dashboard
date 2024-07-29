@@ -49,9 +49,9 @@ Welcome to the ExcelExcelAmazon Sales Dashboard 2024ExcelExcel project! This rep
 
 ## Repository Contents
 
-- `Amazon_Sales_Dashboard_2024.pbix`: The main Excel file containing all pages and visualizations.
+- `Sales Data.xlsx`: The main Excel file containing all pages and visualizations.
 - `README.md`: Project description and usage instructions.
-- `images/`: Directory containing images used in the project (e.g., screenshots of the dashboard).
+
 
 ## Contribution
 
